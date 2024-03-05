@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
 import heroImg from "../../assets/img/hero/profile.JPG";
-import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
+import heroImgMobile from "../../assets/img/hero/profile.JPG";
+// import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../about/index";
 
