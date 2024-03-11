@@ -1,6 +1,6 @@
 import React from "react";
-import img1 from "../../../assets/img/portfolio/project-1.jpg";
-import img2 from "../../../assets/img/portfolio/project-2.jpg";
+// import img1 from "../../../assets/img/portfolio/project-1.jpg";
+// import img2 from "../../../assets/img/portfolio/project-2.jpg";
 import portfolioVideo from "../../../assets/img/portfolio/video.mp4";
 import CloseImg from "../../../assets/img/cancel.svg";
 import PortfolioData from "../portfolioData";
@@ -141,12 +141,15 @@ const Modal = ({ modalId, setGetModal }) => {
                   })}
                 </div>
                 <figure className="modal__img videocontainer">
-                  <iframe
+                  <figure className="modal__img">
+                    <img src={item.image} alt="portfolio project demo" />
+                  </figure>
+                  {/* <iframe
                     src="https://www.youtube.com/embed/7e90gBu4pas"
                     title="YouTube video player"
                     className="youtube-video"
                     allowFullScreen
-                  ></iframe>
+                  ></iframe> */}
                 </figure>
 
                 <button
@@ -220,12 +223,12 @@ const Modal = ({ modalId, setGetModal }) => {
                     <div>
                       <img src={item.image} alt="portfolio project demo" />
                     </div>
-                    <div>
+                    {/* <div>
                       <img src={img1} alt="portfolio project demo" />
                     </div>
                     <div>
                       <img src={img2} alt="portfolio project demo" />
-                    </div>
+                    </div> */}
                   </Slider>
                 </figure>
 

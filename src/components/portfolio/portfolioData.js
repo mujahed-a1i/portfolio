@@ -1,6 +1,6 @@
-import Image1 from "../../assets/img/portfolio/project-1.jpg";
-import Image2 from "../../assets/img/portfolio/project-2.jpg";
-import Image3 from "../../assets/img/portfolio/project-3.jpg";
+import Image1 from "../../assets/img/portfolio/connectin.png";
+import Image2 from "../../assets/img/portfolio/teammates.png";
+import Image3 from "../../assets/img/portfolio/gameplay.gif";
 // import Image4 from "../../assets/img/portfolio/project-4.jpg";
 // import Image5 from "../../assets/img/portfolio/project-5.jpg";
 // import Image6 from "../../assets/img/portfolio/project-6.jpg";
@@ -18,8 +18,8 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "ConnectIn - LinkedIn Clone",
-        client: false,
-        language: "HTML, CSS, Javascript, Ruby, React",
+        client: "Myself",
+        language: "Javascript, Ruby, React, Postgres, HTML, CSS,",
         preview: "https://connectin.mujahedali.com/",
         link: "https://connectin.mujahedali.com/",
       },
@@ -33,11 +33,11 @@ const PortfolioData = [
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "TeamMates",
+        client: "Myself",
+        language: "Javascript, React, Express.js, MongoDB, React, HTML, CSS",
+        preview: "www.teammates.onrender.com/",
+        link: "https://teammates.onrender.com",
       },
     ],
   },
@@ -50,10 +50,10 @@ const PortfolioData = [
     modalDetails: [
       {
         project: "Website",
-        client: "Themeforest",
+        client: "Myself",
         language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
+        preview: "www.balloonpopper.mujahedali.com/",
+        link: "https://balloonpopper.mujahedali.com/",
       },
     ],
   },
