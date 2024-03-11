@@ -2,25 +2,25 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2018 - Present",
-    position: " Web Developer",
-    compnayName: "Envato",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "   2023 - Present",
+    position: " Health Aid",
+    compnayName: "Marks Home Care",
+    // details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
+    //     adipisicing elit`,
   },
   {
-    year: "2013 - 2018",
-    position: " UI/UX Designer",
-    compnayName: "Themeforest",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
+    year: "2011 - 2023",
+    position: "Sales Associate",
+    compnayName: "Nike",
+    // details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
+    //     elit, tempor incididunt`,
   },
   {
-    year: "2005 - 2013",
-    position: "Consultant",
-    compnayName: "Videohive",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    year: "2019 - 2011",
+    position: "Administrative Assistant",
+    compnayName: "Rock Realty",
+    // details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
+    //     elit, sed do eiusmod tempor duntt`,
   },
 ];
 
