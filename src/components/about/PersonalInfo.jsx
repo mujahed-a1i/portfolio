@@ -7,7 +7,7 @@ const personalInfoContent = [
   // { meta: "Nationality", metaInfo: "Tunisian" },
   { meta: "Freelance", metaInfo: "Available" },
   // { meta: "Address", metaInfo: "Tunis" },
-  { meta: "phone", metaInfo: "+16462402573" },
+  // { meta: "phone", metaInfo: "+16462402573" },
   { meta: "Email", metaInfo: "mujahed97@gmail.com" },
   // { meta: "Skype", metaInfo: " steve.milner" },
   // { meta: "langages", metaInfo: "French, English" },
