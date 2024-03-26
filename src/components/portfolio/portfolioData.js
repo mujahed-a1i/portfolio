@@ -49,7 +49,7 @@ const PortfolioData = [
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "Website",
+        project: "Ballon Popper",
         client: "Myself",
         language: " HTML, CSS, Javascript",
         preview: "www.balloonpopper.mujahedali.com/",

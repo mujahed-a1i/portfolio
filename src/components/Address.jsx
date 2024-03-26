@@ -12,16 +12,16 @@ const Address = () => {
 
       <p className="open-sans-font custom-span-contact position-relative">
         <i className="fa fa-envelope-open position-absolute"></i>
-        <span className="d-block">mail me</span>{" "}
+        <span className="d-block">email me</span>{" "}
         <a href="mailto:mujahed97@gmail.com">mujahed97@gmail.com</a>
       </p>
       {/* End .custom-span-contact */}
 
-      <p className="open-sans-font custom-span-contact position-relative">
+      {/* <p className="open-sans-font custom-span-contact position-relative">
         <i className="fa fa-phone-square position-absolute"></i>
         <span className="d-block">call me</span>{" "}
         <a href="Tel: +1 646 240 2573">+1 646 240 2573</a>
-      </p>
+      </p> */}
       {/* End .custom-span-contact */}
     </>
   );
